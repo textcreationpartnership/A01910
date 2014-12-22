@@ -36,9 +36,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A newe booke called the shippe of safegard, wrytten by G.B. Anno. 1569Shippe of safegard.Googe, Barn
+
+1. ¶ To hys verie good Siſters Miſtreſse Phillyp Darell, and Miſtreſſe Fraunces Darell, of the bouſe of Scotney.
+
+1. To the Reader.
+
 #####Body#####
-A newe booke called the shippe of safegard, wrytten by G.B. Anno. 1569Shippe of safegard.Googe, Barn
+
+1. The Ship of ſafegarde
+
+1. The death of S. Polycarpus Biſhop of Smyrna, and diſciple to ſaint Iohn. Euſeb. lib. 4.
+
+1. A Prieſt of Apollo ſtraungely conuerted. Euſeb. lib. 4.
+
 **Types of content**
 
   * There are 2388 **verse** lines!
